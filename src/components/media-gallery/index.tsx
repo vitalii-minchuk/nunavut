@@ -1,6 +1,3 @@
-'use client';
-import React from 'react';
-
 import { ICloudinaryResource } from '@/types';
 import { MediaGalleryItem } from './media-gallery-item';
 
